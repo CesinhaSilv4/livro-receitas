@@ -1,4 +1,0 @@
-# Macarrão com bacon
-
-
-
