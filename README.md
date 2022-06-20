@@ -3,4 +3,5 @@
 Olá! Bem vindo ao meu livro receitas :call_me_hand:
 
 * Macarrão com Bacon
+* Pavê
 
